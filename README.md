@@ -41,3 +41,33 @@ A showcase of projects using Python, Pandas, Numpy, datasets and mathematical mo
 * A mathematical analysis was carried out, including the effect learning rate. A snapshot of this is shown below:
 
 <img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p5_EffectLearningRate.jpg" alt="LearningRate" height='250'>
+
+## [Project 6: Data Visualization](https://github.com/gxgarciat/Playground-DataAnalysis/blob/main/6_DataVisualization_3D_PartialDerivatives.ipynb)
+* This project was developed using similar optimization tools.
+* A more complex cost function (3D surface) was selected to evaluate its use.
+* A mathematical analysis was carried out, including calculus. A snapshot of this is shown below:
+
+<img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p6_3DMathModelVisualization.jpg" alt="Data3D" height='250'>
+
+## [Project 7: Mean Squared Error](https://github.com/gxgarciat/Playground-DataAnalysis/blob/main/7_MeanSquaredError.ipynb)
+* This project used to evaluate the Mean Squared error.
+* A more complex cost function (3D surface) was selected to evaluate its use.
+* A mathematical analysis was carried out, including the Partial Derivatives of MSE. A snapshot of this is shown below:
+
+<img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p7_MSE.jpg" alt="Data3D" height='250'>
+
+## [Project 8: House Price Analysis - Boston](https://github.com/gxgarciat/Playground-DataAnalysis/blob/main/8_HousePriceData_MultivariableRegression.ipynb)
+* This project uses a dataset from a paper regarding the house prices in the Boston Area. Although the article is dated, it shows the influence of different factors regarding the price of the houses (closeness to school, closeness to river, etc.).
+* A complete analysis of the different variables is carried out, including stadistics.
+* A multivariable regression was carried out as well, among other studies. A snapshot of these are shown below:
+
+<img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p8_RelationshipsLinearRegression.jpg" alt="relationships" height='250'>
+
+<img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p8_HeatMap.jpg" alt="heatmap" height='250'>
+
+<img src="https://github.com/gxgarciat/DataAnalysis_Portfolio/blob/main/img/p8_ActualVSPredictedValues.jpg" alt="RealVsPredicted" height='250'>
+
+## [Project 9: Valuation Tool](https://github.com/gxgarciat/Playground-DataAnalysis/blob/main/9_Valuation_Tool.ipynb)
+* This project uses the data provided from the previous study.
+* It uses the function: get_dollar_estimate, the variables number of rooms, numer of students per teacher, closeness to the river and the prediction interval.
+* At the end, a mathematical model is implemented and the estimated property value is obtained.
